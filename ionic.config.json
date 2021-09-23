@@ -1,0 +1,7 @@
+{
+  "name": "mybod",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
