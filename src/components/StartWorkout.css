@@ -1,0 +1,5 @@
+.start-button {
+  --border-radius: 100px;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}

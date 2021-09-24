@@ -1,0 +1,18 @@
+.ion-label {
+  font-size: .5rem;
+}
+
+.tab-bar {
+  --border: none;
+  --background: rgb(80, 80, 80);
+}
+
+ion-tab-bar {
+  height: 60px;
+}
+
+ion-tab-button {
+  --color: white;
+  --padding-top: 10px;
+  --padding-bottom: 10px;
+}

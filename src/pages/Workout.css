@@ -1,0 +1,34 @@
+ion-content {
+  --background: rgb(43,43,42);
+}
+
+.toolbar {
+  --border-style: none;
+  --background: rgb(43,43,42);
+}
+
+.new {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.your-gym-btn {
+  margin: 0 10px;
+  --border-radius: 100px;
+  --background: rgb(80, 80, 80);
+}
+
+.chevron {
+  position: absolute;
+  right: 0;
+}
+
+.ellipsis {
+  --color: #fff;
+}
+
+.start-workout-button {
+  position: absolute;
+  bottom: 115px;
+  right: 20px;
+}
